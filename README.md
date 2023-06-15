@@ -10,6 +10,7 @@ How to create them:
 
 install vm ubuntu 20.04
 
+```
 sudo apt install openssh-server
 
 wget https://github.com/adityapk00/zcash/archive/refs/tags/v5.4.2.zip
@@ -30,3 +31,4 @@ newgrp docker
 admin2@ubunt2004:~/zcash-5.4.2$ newgrp docker
 admin2@ubunt2004:~/zcash-5.4.2$ ./buildall.sh --version v5.5.1
 
+```
