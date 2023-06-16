@@ -1,4 +1,15 @@
 # zcash
+---
+If you have time, please see [backtrader_binance](https://github.com/WISEPLAT/backtrader_binance) library wich one is helping to create crypto trading robots.
+
+[Backtrader_binance](https://github.com/WISEPLAT/backtrader_binance) library create Binance API integration with [Backtrader](https://github.com/WISEPLAT/backtrader).
+
+With this integration you can do:
+ - Backtesting your strategy on historical data from the exchange [Binance](https://www.binance.com/?ref=CPA_004RZBKQWK ) + [Backtrader](https://github.com/WISEPLAT/backtrader )  // Backtesting 
+ - Launch trading systems for automatic trading on the exchange [Binance](https://www.binance.com/?ref=CPA_004RZBKQWK) + [Backtrader](https://github.com/WISEPLAT/backtrader ) // Live trading
+ - Download historical data for cryptocurrencies from the exchange [Binance](https://www.binance.com/?ref=CPA_004RZBKQWK)
+---
+
 zcashd
 
 Just compiled zcash daemon versions for windows and linux
