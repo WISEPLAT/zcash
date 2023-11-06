@@ -58,3 +58,21 @@ admin2@ubunt2004:~/zcash-5.4.2$ newgrp docker
 admin2@ubunt2004:~/zcash-5.4.2$ ./buildall.sh --version v5.5.1
 
 ```
+
+---
+
+Do you want an updated compiled file for Zcashd?
+
+Just donate here:
+
+ETH(ERC20) 0xfd546640c911ba90d1409a4fbbb4322ae73e7814
+
+or
+
+BTC 1ENhx1HUMJZjGAfYaT1vfsqwKHgVkqwX1D
+
+or
+
+USDT(TRC20) TEHaXZX7KLjAm4eLWdf4VKfsqRUQpv8fTT
+
+Thank you!
