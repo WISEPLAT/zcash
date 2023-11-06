@@ -61,7 +61,7 @@ admin2@ubunt2004:~/zcash-5.4.2$ ./buildall.sh --version v5.5.1
 
 ---
 
-Do you want an updated compiled file for Zcashd?
+Do you want an updated compiled file for Zcashd? Or you want just say - Thanks)))
 
 Just donate here:
 
