@@ -1,4 +1,4 @@
-# zcash
+# zcash download
 ---
 If you have time, please see [backtrader_binance](https://github.com/WISEPLAT/backtrader_binance) library wich one is helping to create crypto trading robots.
 
@@ -29,6 +29,40 @@ Just compiled zcash daemon versions for windows and linux
     and 
   
     file by file archive are available in folders
+
+For Windows:
+```
+   Directory of c:\Users\user123\PycharmProjects\zcash\zcashd-5.7.0\zcash-windows-v5.7.0
+
+06.11.2023  18:36    <DIR>          .
+06.11.2023  18:48    <DIR>          ..
+06.11.2023  17:10               246 sha256sum.txt
+06.11.2023  17:10        63 320 576 zcash-cli.exe
+06.11.2023  17:22        56 396 092 zcash-cli.zip
+06.11.2023  17:10         5 317 102 zcashd-wallet-tool.exe
+06.11.2023  17:22         1 593 104 zcashd-wallet-tool.zip
+06.11.2023  17:10        72 003 072 zcashd.exe
+06.11.2023  17:22        59 814 510 zcashd.zip
+               7 File(s)    258 444 702 bytes
+               2 Dir(s)  64 918 384 640 bytes free
+```
+
+For Linux:
+```
+ Directory of c:\Users\user123\PycharmProjects\zcash\zcashd-5.7.0\zcash-linux-amd64-v5.7.0
+
+07.11.2023  06:51    <DIR>          .
+06.11.2023  18:48    <DIR>          ..
+06.11.2023  17:25               234 sha256sum.txt
+06.11.2023  16:12        64 504 216 zcash-cli
+06.11.2023  17:25        64 512 000 zcash-cli-v5.7.0.tar
+06.11.2023  16:12        73 130 392 zcashd
+06.11.2023  17:25        73 134 080 zcashd-v5.7.0.tar
+06.11.2023  16:12         5 110 992 zcashd-wallet-tool
+06.11.2023  17:25         5 120 000 zcashd-wallet-tool-v5.7.0.tar
+               7 File(s)    285 511 914 bytes
+               2 Dir(s)  64 769 130 496 bytes free
+```
 
 U can write me to Telegram: https://t.me/OlegSh777
 
