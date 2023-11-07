@@ -32,7 +32,7 @@ Just compiled zcash daemon versions for windows and linux
 
 For Windows:
 ```
-   Directory of c:\Users\user123\PycharmProjects\zcash\zcashd-5.7.0\zcash-windows-v5.7.0
+   Directory of ..\zcash\zcashd-5.7.0\zcash-windows-v5.7.0
 
 06.11.2023  18:36    <DIR>          .
 06.11.2023  18:48    <DIR>          ..
@@ -44,12 +44,11 @@ For Windows:
 06.11.2023  17:10        72 003 072 zcashd.exe
 06.11.2023  17:22        59 814 510 zcashd.zip
                7 File(s)    258 444 702 bytes
-               2 Dir(s)  64 918 384 640 bytes free
 ```
 
 For Linux:
 ```
- Directory of c:\Users\user123\PycharmProjects\zcash\zcashd-5.7.0\zcash-linux-amd64-v5.7.0
+ Directory of ..\zcash\zcashd-5.7.0\zcash-linux-amd64-v5.7.0
 
 07.11.2023  06:51    <DIR>          .
 06.11.2023  18:48    <DIR>          ..
@@ -61,7 +60,6 @@ For Linux:
 06.11.2023  16:12         5 110 992 zcashd-wallet-tool
 06.11.2023  17:25         5 120 000 zcashd-wallet-tool-v5.7.0.tar
                7 File(s)    285 511 914 bytes
-               2 Dir(s)  64 769 130 496 bytes free
 ```
 
 U can write me to Telegram: https://t.me/OlegSh777
